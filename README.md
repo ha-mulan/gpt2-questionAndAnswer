@@ -29,7 +29,7 @@
 
 ### GET parameter
 
-    keyword: keyword of covid article you want to generate
+    keyword: input your keyword that you want to ask
 
 
 ### Output format
